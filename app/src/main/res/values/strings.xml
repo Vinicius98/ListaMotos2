@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaMotos</string>
+    <string name="title_activity_lista_moto">ListaMoto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_linha_customizada">LinhaCustomizada</string>
+    <string name="title_activity_moto_adapter">MotoAdapter</string>
+</resources>
